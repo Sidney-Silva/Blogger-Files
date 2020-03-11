@@ -9,7 +9,7 @@
 /* Style of the small image link */
 .MagicThumb, .MagicThumb:hover {
     display: inline-block;
-    cursor: url(graphics/zoomin.cur), pointer;
+    cursor: url(zoomin.cur), pointer;
     outline: 0 !important;
     line-height: 100% !important;
     direction: ltr;
@@ -53,7 +53,7 @@ td > .MagicThumb.magic-for-ie8 > img {
 
 /* Style of the expanded image */
 .MagicThumb-expanded {
-    cursor: url(graphics/zoomout.cur), pointer;
+    cursor: url(zoomout.cur), pointer;
     background: transparent;
     border: 1px solid #ccc;
     outline: 0;
